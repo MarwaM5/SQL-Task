@@ -39,3 +39,4 @@ SELECT SUM(Salary) AS TotalSalaries FROM Employees;
 SELECT AVG(Salary) AS AverageSalary FROM Employees;
 SELECT MAX(Salary) AS HighestSalary , MIN(Salary) AS LowestSalary FROM Employees;
 SELECT COUNT(*) AS TotalEmployees FROM Employees;
+
